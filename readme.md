@@ -4,7 +4,59 @@
 
 Windows 10 Pro
 
-## ZSH
+### PROGRAMAS WINDOWS
+
+- Arduino IDE
+- AUTHY DESKTOP
+- DEV-C++
+- DISCORD
+- DROIDCAM
+- EVERYTHING
+- FIGMA
+- FIREFOX
+- GIT
+- GOOGLE CHROME
+  - CARBON
+  - GOOGLE DRIVE
+  - GOOGLE DUO
+  - SNAPDROP
+  - TWITTER
+- KEEPASS
+- MYSQL WORKBENCH
+- NMAP - ZENMAP GUI
+- NODE.JS
+- OBS STUDIO
+  - OBS WEBSOCKET
+- PYTHON 3.8
+- SPOTIFY
+- TEAMSPEAK 3
+- TEAMVIEWER
+- TELEGRAM
+- TYPORA
+- VCXSRV
+- VERACRYPT
+- VLC
+- VSCODE
+- VMWARE
+- WHATSAPP
+- WINDOWS TERMINAL
+- ZOOM
+
+
+
+
+
+
+
+## Windows Subsystem for Linux
+
+### Gestores de paquetes:
+
+apt
+
+brew
+
+### ZSH
 
 * Tema: agnoster
 
@@ -18,4 +70,6 @@ Windows 10 Pro
 
   <code>DEFAULT_USER=usarr</code>
 
+  
+  
   
