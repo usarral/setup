@@ -42,12 +42,6 @@ Windows 10 Pro
 - WINDOWS TERMINAL
 - ZOOM
 
-
-
-
-
-
-
 ## Windows Subsystem for Linux
 
 ### Gestores de paquetes:
