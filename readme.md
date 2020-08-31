@@ -7,39 +7,39 @@ Windows 10 Pro
 ### PROGRAMAS WINDOWS
 
 - Arduino IDE
-- AUTHY DESKTOP
+- [AUTHY DESKTOP](https://authy.com/download/)
 - DEV-C++
-- DISCORD
+- [DISCORD](https://discord.com)
 - DROIDCAM
-- EVERYTHING
-- FIGMA
-- FIREFOX
-- GIT
-- GOOGLE CHROME
-  - CARBON
-  - GOOGLE DRIVE
-  - GOOGLE DUO
-  - SNAPDROP
-  - TWITTER
-- KEEPASS
+- [EVERYTHING](https://www.voidtools.com/es-es/descargas/)
+- [FIGMA](https://www.figma.com/downloads/)
+- [FIREFOX](https://www.mozilla.org/es-ES/firefox/new/)
+- [GIT](https://git-scm.com/downloads)
+- [GOOGLE CHROME](htpps://chrome.google.com)
+  - [CARBON](https://carbon.now.sh/)
+  - [GOOGLE DRIVE](https://drive.google.com)
+  - [GOOGLE DUO](https://duo.google.com)
+  - [SNAPDROP](https://snapdrop.net)
+  - [TWITTER](https://twitter.com)
+- [KEEPASS](https://keepass.info/)
 - MYSQL WORKBENCH
 - NMAP - ZENMAP GUI
-- NODE.JS
-- OBS STUDIO
-  - OBS WEBSOCKET
-- PYTHON 3.8
-- SPOTIFY
+- [NODE.JS](https://nodejs.org/es/) 
+- [OBS STUDIO](https://obsproject.com/es/download)
+  - [OBS WEBSOCKET](https://github.com/Palakis/obs-websocket)
+- [PYTHON 3.8](https://www.python.org/)
+- [SPOTIFY](https://www.spotify.com)
 - TEAMSPEAK 3
-- TEAMVIEWER
-- TELEGRAM
-- TYPORA
+- [TEAMVIEWER](https://www.teamviewer.com/es/)
+- [TELEGRAM](https://telegram.org/)
+- [TYPORA](https://typora.io/)
 - VCXSRV
-- VERACRYPT
-- VLC
-- VSCODE
-- VMWARE
-- WHATSAPP
-- WINDOWS TERMINAL
+- [VERACRYPT](https://www.veracrypt.fr/en/Downloads.html)
+- [VLC](https://www.videolan.org/vlc/#download)
+- [VSCODE](https://code.visualstudio.com/#alt-downloads)
+- [VMWARE](https://www.vmware.com/es/products/workstation-pro/workstation-pro-evaluation.html)
+- [WHATSAPP](https://www.microsoft.com/es-es/p/whatsapp-desktop/9nksqgp7f2nh?activetab=pivot:overviewtab)
+- [WINDOWS TERMINAL](https://www.microsoft.com/es-es/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 - ZOOM
 
 ## Windows Subsystem for Linux
