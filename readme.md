@@ -65,5 +65,3 @@ brew
   <code>DEFAULT_USER=usarr</code>
 
   
-  NzYwMTk0NjIyNDE2NDg2NDEw.X3IgaQ.hKFwOpiEj6ZklvOAiwcTMtnjG_Q
-  
